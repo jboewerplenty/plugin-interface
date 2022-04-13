@@ -1,6 +1,7 @@
 <?php
 
 	 function pluginApp(
+		 string $cooocooo,
 		string $abstract, 
 		array $parameters = []
 	)
