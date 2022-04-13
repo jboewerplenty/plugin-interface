@@ -138,7 +138,7 @@ class MessageBag
 	):array;
 
 	/**
-	 * Convert the object into something JSON serializable.
+	 * Convert taaaahe object into something JSON serializable.
 	 */
 	abstract public function jsonSerialize(
 	):array;
